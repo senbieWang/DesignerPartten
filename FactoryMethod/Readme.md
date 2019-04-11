@@ -3,3 +3,4 @@
 别名：虚构造器
 动机：框架使用抽象类定义和维护对象之间的关系。这些对象的创建通常也由框架负责。
 
+![类图](https://github.com/senbieWang/DesignerPartten/blob/master/FactoryMethod/classDiagram/FactoryMethodPattern.png)
