@@ -6,7 +6,14 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WidgetFactory widgetFactory = new PMWidgetFactory();
+            widgetFactory.CreateScrollBar().showBar();
+            widgetFactory.CreateWindow().showWindow();
+
+            widgetFactory = new MotifFactory();
+            widgetFactory.CreateScrollBar().showBar();
+            widgetFactory.CreateWindow().showWindow();
+
         }
     }
 }
