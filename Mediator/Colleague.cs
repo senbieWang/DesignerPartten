@@ -19,29 +19,36 @@ namespace Mediator
     public class ColleagueA : Colleague
     {
         public ColleagueA(string name, Mediator mediator) : base(name, mediator) { }
+        
+        //发布消息
         public void PushMessage(string message)
         {
             Mediator.pushMessage(message,this);
         }
 
-        public void getMessage(string message)
+        //接收消息
+        public void GetMessage(string message)
         {
             Console.WriteLine("房主："+Name + ",获取信息："+message);
         }
     }
 
-
+    //租房者
     public class ColleagueB : Colleague
     {
         public ColleagueB(string name, Mediator mediator) : base(name, mediator) { }
+        
+        //发布消息
         public void PushMessage(string message)
         {
             Mediator.pushMessage(message, this);
         }
 
-        public void getMessage(string message)
+        //接收消息
+        public void GetMessage(string message)
         {
             Console.WriteLine("租房者:" + Name + ",获得信息：" + message);
         }
+
     }
 }

@@ -19,11 +19,11 @@ namespace Mediator
         {
             if (enty == colleagueA)
             {
-                colleagueB.getMessage(message);
+                colleagueB.GetMessage(message);
             }
             else
             {
-                colleagueA.getMessage(message);
+                colleagueA.GetMessage(message);
             }
         }
     }
