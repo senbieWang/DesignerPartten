@@ -12,7 +12,7 @@
 案例： 统一数据来源的不同表现，当数据来源发生变化时，多种表现要一起更新。
 
 
-![模式类图]()
+![模式类图](https://github.com/senbieWang/DesignerPartten/blob/master/Observer/Diagram/ObserverClass.png)
 
 
-![模式时序图]()
+![模式时序图](https://github.com/senbieWang/DesignerPartten/blob/master/Observer/Diagram/ObserverSeq.png)
