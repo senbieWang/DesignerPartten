@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPartern", "Observer\ObserverPartern.csproj", "{D6E63E17-B5D3-4195-B41B-A8D04124022A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePartern", "StatePartern\StatePartern.csproj", "{EE7E23A9-9385-45F2-87EC-67BC5C5EBFE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatePartern", "StatePartern\StatePartern.csproj", "{EE7E23A9-9385-45F2-87EC-67BC5C5EBFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{23F43BC5-FC89-4FBC-8877-C99E5355C1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{2C00AE04-B6C3-496D-9678-ADF4E30ADF5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{EE7E23A9-9385-45F2-87EC-67BC5C5EBFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7E23A9-9385-45F2-87EC-67BC5C5EBFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7E23A9-9385-45F2-87EC-67BC5C5EBFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F43BC5-FC89-4FBC-8877-C99E5355C1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F43BC5-FC89-4FBC-8877-C99E5355C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F43BC5-FC89-4FBC-8877-C99E5355C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F43BC5-FC89-4FBC-8877-C99E5355C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C00AE04-B6C3-496D-9678-ADF4E30ADF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C00AE04-B6C3-496D-9678-ADF4E30ADF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C00AE04-B6C3-496D-9678-ADF4E30ADF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C00AE04-B6C3-496D-9678-ADF4E30ADF5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
