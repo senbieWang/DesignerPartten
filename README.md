@@ -6,7 +6,7 @@
 ## [Mediator](https://github.com/senbieWang/DesignerPartten/tree/master/Mediator)
 ## [ObserverPartern](https://github.com/senbieWang/DesignerPartten/tree/master/Observer)
 ## [StateParten](https://github.com/senbieWang/DesignerPartten/tree/master/StatePartern)
-## [Chain of Responsibility]()
+## [Chain of Responsibility](https://github.com/senbieWang/DesignerPartten/tree/master/ChainOfResponsibility)
 ## [Command]()
 ## [Strategy]()
 ## [Visitor]()
