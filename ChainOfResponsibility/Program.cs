@@ -23,6 +23,7 @@ namespace ChainOfResponsibility
             request.RequestType = HelpType.dialog;
             dialog.HandleHelp(request);
 
+            widge.HandleHelp(request);
         }
     }
 }

@@ -6,7 +6,8 @@ namespace TemplatePattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            View view = new MyView();
+            view.Display();
         }
     }
 }
