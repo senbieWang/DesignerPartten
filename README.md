@@ -2,7 +2,7 @@
 ## [AbstractFactory](https://github.com/senbieWang/DesignerPartten/tree/master/AbstractFactory)
 ## [Builder](https://github.com/senbieWang/DesignerPartten/tree/master/Builder)
 ## [FactoryMethod](https://github.com/senbieWang/DesignerPartten/tree/master/FactoryMethod)
-# ĞĞÎª¶ÔÏóÄ£Ê½£¬Ê¹ÓÃ¸´ºÏ¡£
+# è¡Œä¸ºå¯¹è±¡æ¨¡å¼ï¼Œä½¿ç”¨å¤åˆã€‚
 ## [Mediator](https://github.com/senbieWang/DesignerPartten/tree/master/Mediator)
 ## [ObserverPartern](https://github.com/senbieWang/DesignerPartten/tree/master/Observer)
 ## [StateParten](https://github.com/senbieWang/DesignerPartten/tree/master/StatePartern)
@@ -11,5 +11,5 @@
 ## [Strategy]()
 ## [Visitor]()
 ## [Iterator]()
-# ĞĞÎªÀàÄ£Ê½£¬Ê¹ÓÃ¼Ì³Ğ
-## [TemplatePattern]()
+# è¡Œä¸ºç±»æ¨¡å¼ï¼Œä½¿ç”¨ç»§æ‰¿
+## [TemplatePattern](https://github.com/senbieWang/DesignerPartten/tree/master/TemplatePattern)
